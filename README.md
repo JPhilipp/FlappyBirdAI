@@ -1,5 +1,5 @@
 # FlappyBirdAI
- Using Machine Learning to train an agent to avoid obstacles!
+ Using Machine Learning to train a Flappy Bird agent to avoid obstacles! This requires the <a href="https://github.com/Unity-Technologies/ml-agents">ML-Agents</a> library.
  
 Video:
 
